@@ -63,7 +63,7 @@ const SAMPLE_ITEMS = [
 const PRESET_PRODUCT_IMAGES = {
   rice: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmljZXxlbnwwfHwwfHx8MA%3D%3D",
   tomatoes:
-    "https://images.unsplash.com/photo-1592841657303-a2a019e08d00?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dG9tYXRvZXN8ZW58MHx8MHx8fDA%3D%3D",
+    "https://unsplash.com/photos/red-cherry-tomatoes-nM6qrtnVKn8",
   onions:
     "https://commons.wikimedia.org/wiki/Special:FilePath/Onions.jpg?width=700",
   beans:
