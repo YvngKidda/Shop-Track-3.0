@@ -925,8 +925,8 @@ function renderHome() {
         </div>
         <div class="hero-copy">
           <div>
-            <h1 style="font-family:'DM Serif Display',serif;font-size:clamp(26px,4vw,36px);font-weight:400;line-height:1.15">${state.userName ? `Good day, ${escapeHTML(state.userName)}!` : "Welcome!"}</h1>
-            <p style="font-size:13px;opacity:.75;margin-top:4px">Plan. Shop. Track prices. 🛒</p>
+            <h1 style="font-family:'DM Serif Display',serif;font-size:clamp(26px,4vw,36px);font-weight:700;line-height:1.15">${state.userName ? `Good day, ${escapeHTML(state.userName)}!` : "Welcome!"}</h1>
+            <p style="font-size:16px;opacity:.75;margin-top:10px">Plan. Shop. Track prices. 🛒</p>
           </div>
           <img class="hero-image" src="https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=240&q=80" alt="Fresh produce in a grocery basket" />
         </div>
